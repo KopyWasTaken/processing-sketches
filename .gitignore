@@ -1,1 +1,4 @@
 .DS_Store
+
+# I don't really want to upload photos
+**/*.png
